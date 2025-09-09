@@ -1,14 +1,20 @@
-<!--
-Welcome to my GitHub profile!
--->
+<!-- Visitor badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mufeezahmad.mufeezahmad" />
 
-<h1 align="center">Hi, I'm Mufeez Ahmad 👋</h1>
+<!-- Animated "Hi There" header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mufeez+Ahmad!;" />
+  </a>
+</h1>
+
 <p align="center">
   <b>Software Engineer (AI/ML) | Workflow Automation Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/mufeezahmad/mufeezahmad/assets/your-profile-banner.png" alt="banner" width="80%" />
+  💡 Passionate about building intelligent systems that enhance real-world workflows.<br>
+  Bridging software engineering with machine learning research to create impactful solutions.
 </p>
 
 ---
@@ -83,5 +89,3 @@ Welcome to my GitHub profile!
 <div align="center">
   <img src="https://github.com/mufeezahmad/mufeezahmad/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
-
-<!-- Let's connect and build something awesome together! -->
