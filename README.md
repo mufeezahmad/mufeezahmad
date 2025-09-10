@@ -62,7 +62,7 @@
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="50" height="50"/><br><strong>TensorFlow</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br><strong>PyTorch</strong></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/><br><strong>Scikit-learn</strong></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="50"/><br><strong>Pandas</strong></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="50"/></td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50"/><br><strong>NumPy</strong></td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="50" height="50"/><br><strong>LangChain</strong></td>
       <td align="center"><img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" width="50" height="50"/><br><strong>LlamaIndex</strong></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"/><br><strong>ChatGPT</strong></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50"/><br><strong>Gemini</strong></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50"/></td>
     </tr>
   </table>
 </div>
@@ -111,6 +111,8 @@
       <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br><strong>MySQL</strong></td>>
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br><strong>MongoDB</strong></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/56839959?s=200&v=4" width="50" height="50"/><br><strong>Pinecone</strong></td>
+      <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/qdrant/qdrant/raw/master/docs/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/qdrant/qdrant/raw/master/docs/logo-light.svg"><img width="80" height="50" alt="Qdrant" src="https://github.com/qdrant/qdrant/raw/master/docs/logo.svg"></picture><br><strong>Qdrant</strong></td>
     </tr>
   </table>
 </div>
@@ -136,28 +138,10 @@
   <table>
     <tr>
       <td align="center"><img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50"/><br><strong>Kali Linux</strong></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" width="50" height="50"/><br><strong>Wireshark</strong></td>
       <td align="center"><img src="https://nmap.org/images/nmap-logo-64px.png" width="50" height="50"/><br><strong>Nmap</strong></td>
-      <td align="center"><img src="https://www.metasploit.com/includes/images/metasploit-logo.png" width="50" height="50"/><br><strong>Metasploit</strong></td>
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg" width="50" height="50"/><br>
-        <strong>Parrot OS</strong>
-      </td>
-      <td align="center">
-        <img src="https://gitlab.com/eve-ng-dev/icons/-/raw/master/eve-ng-logo.svg" width="50" height="50"/><br>
-        <strong>EVE-NG</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 
