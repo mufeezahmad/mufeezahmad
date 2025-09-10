@@ -93,6 +93,18 @@
 - 🔬 Always experimenting with workflow automation and real-world AI adoption
 
 ---
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/mufeezahmad/mufeezahmad/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mufeezahmad/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 ## 📈 GitHub Stats  
 
@@ -101,21 +113,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeezahmad&layout=compact&theme=radical" alt="top langs" height="150"/>
 </p>
 
-<!-- Snake animation -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mufeezahmad/mufeezahmad/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mufeezahmad/mufeezahmad/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mufeezahmad/mufeezahmad/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufeezahmad&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufeezahmad&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufeezahmad&theme=radical" alt="profile summary"/>
+</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer"/>
