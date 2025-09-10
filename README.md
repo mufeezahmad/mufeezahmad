@@ -112,20 +112,22 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufeezahmad&show_icons=true&theme=radical" alt="mufeezahmad stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mufeezahmad&show_icons=true&theme=default" alt="mufeezahmad stats" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeezahmad&layout=compact&theme=radical" alt="top langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeezahmad&layout=compact&theme=default" alt="top langs" height="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufeezahmad&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufeezahmad&theme=graywhite" height="250"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufeezahmad&theme=radical" alt="profile summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mufeezahmad&theme=graywhite" alt="profile summary"/>
 </p>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer"/>
