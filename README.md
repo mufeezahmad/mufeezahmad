@@ -96,11 +96,14 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/mufeezahmad/mufeezahmad/raw/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+  <a href="https://github.com/mufeezahmad/mufeezahmad/raw/main/assets/Resume.pdf" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Download+My+Resume" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/mufeezahmad/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mufeezahmad/mufeezahmad/tree/main/assets/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
   </a>
 </p>
 
@@ -110,11 +113,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mufeezahmad&show_icons=true&theme=radical" alt="mufeezahmad stats" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeezahmad&layout=compact&theme=radical" alt="top langs" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mufeezahmad&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mufeezahmad&theme=radical" height="150"/>
 </p>
 
