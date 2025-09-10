@@ -17,6 +17,11 @@
   Bridging software engineering with machine learning research to create impactful solutions.
 </p>
 
+## 🚀 Installation Simulation
+
+```bash
+pip install mufeez
+
 ---
 
 ## 💡 About Me
