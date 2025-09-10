@@ -1,23 +1,31 @@
-<!-- Visitor badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mufeezahmad.mufeezahmad" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=header"/>
 
 <!-- Animated "Hi There" header -->
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mufeez+Ahmad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mufeez+Ahmad!;" />
 </a>
 </h1>
 
+<h3>
 <p align="center">
-<b>Software Engineer (AI/ML) | Workflow Automation Enthusiast</b>
+<b>AI/ML Engineer | Software Developer | Researcher</b>
 </p>
+</h3>
 
 <p align="center">
-💡 Passionate about building intelligent systems that enhance real-world workflows.<br>
-Bridging software engineering with machine learning research to create impactful solutions.
+👉 I’m passionate about building intelligent systems that combine machine learning, <br>Artificial Intelligence, and modern software engineering</b> to solve real-world problems.  
 </p>
 
 ---
+
+<!-- Visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mufeezahmad&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/mufeezahmad?style=for-the-badge&logo=github&color=green" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/mufeezahmad?style=for-the-badge&logo=github&color=yellow" alt="stars"/>
+</p>
+
 
 ## 💡 About Me
 
@@ -89,3 +97,8 @@ Bridging software engineering with machine learning research to create impactful
 <div align="center">
 <img src="https://github.com/mufeezahmad/mufeezahmad/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer"/>
+
+
+
