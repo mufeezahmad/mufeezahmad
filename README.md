@@ -94,6 +94,13 @@
 
 ---
 
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mufeezahmad&show_icons=true&theme=radical" alt="mufeezahmad stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeezahmad&layout=compact&theme=radical" alt="top langs" height="150"/>
+</p>
+
 <div align="center">
 <img src="https://github.com/mufeezahmad/mufeezahmad/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
